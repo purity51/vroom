@@ -1,6 +1,1 @@
-Django==6.0.4
-gunicorn
-python-decouple
-requests
-django-cors-headers
-djangorestframework
+whitenoise==6.12.0
