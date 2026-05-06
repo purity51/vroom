@@ -1,1 +1,7 @@
-whitenoise==6.12.0
+Django==4.2
+gunicorn
+whitenoise
+python-decouple
+requests
+django-cors-headers
+djangorestframework
